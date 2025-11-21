@@ -9,48 +9,48 @@ A complete, structured learning roadmap to track my journey from networking fund
 ## ✅ STAGE 1 — CORE NETWORKING (2–4 weeks)
 
 ### 🔹 OSI & TCP/IP Models
-- [ ] Understand all 7 OSI layers  
-- [ ] Map OSI → TCP/IP model  
-- [ ] Know PDU: Frame, Packet, Segment  
+- [x] Understand all 7 OSI layers  
+- [x] Map OSI → TCP/IP model  
+- [x] Know PDU: Frame, Packet, Segment  
 
 ### 🔹 TCP & UDP (Deep Understanding)
-- [ ] TCP 3-way handshake (SYN, SYN/ACK, ACK)
-- [ ] FIN, RST, retransmission
-- [ ] Sequence & ACK numbers  
-- [ ] Sliding window & flow control  
-- [ ] TCP vs UDP behavior  
+- [x] TCP 3-way handshake (SYN, SYN/ACK, ACK)
+- [x] FIN, RST, retransmission
+- [x] Sequence & ACK numbers  
+- [x] Sliding window & flow control  
+- [x] TCP vs UDP behavior  
 
 ### 🔹 IP Addressing (IPv4 & IPv6 basics)
-- [ ] Private vs Public IP  
-- [ ] ARP: IP → MAC mapping  
-- [ ] DHCP: IP assignment  
-- [ ] DNS: name resolution  
-- [ ] NAT / PAT  
+- [x] Private vs Public IP  
+- [x] ARP: IP → MAC mapping  
+- [x] DHCP: IP assignment  
+- [x] DNS: name resolution  
+- [x] NAT / PAT  
 
 ### 🔹 Subnetting (Practical Only)
-- [ ] /24, /30, /31, /32  
-- [ ] Find network & broadcast address  
-- [ ] Determine usable host range  
-- [ ] Understand why networks can't communicate  
+- [x] /24, /30, /31, /32  
+- [x] Find network & broadcast address  
+- [x] Determine usable host range  
+- [x] Understand why networks can't communicate  
 
 ### 🔹 Switching & Routing
-- [ ] VLAN concepts  
-- [ ] Access vs Trunk ports  
-- [ ] 802.1Q tagging  
-- [ ] STP basics  
-- [ ] MAC address table  
-- [ ] Static routes  
-- [ ] Basic OSPF  
+- [x] VLAN concepts  
+- [x] Access vs Trunk ports  
+- [x] 802.1Q tagging  
+- [x] STP basics  
+- [x] MAC address table  
+- [x] Static routes  
+- [x] Basic OSPF  
 
 ---
 
 ## ✅ STAGE 2 — NETWORK TOOLS MASTERY (1–2 weeks)
 
 ### 🔹 Nmap (Beginner → Advanced)
-- [ ] Host discovery (-sn)
-- [ ] Port scans (SYN, Connect, UDP)
-- [ ] Service/version detection (-sV)
-- [ ] OS fingerprinting (-O)
+- [x] Host discovery (-sn)
+- [x] Port scans (SYN, Connect, UDP)
+- [x] Service/version detection (-sV)
+- [x] OS fingerprinting (-O)
 - [ ] Firewall evasion (-Pn, --data-length)
 - [ ] Timing options (T1–T5)
 - [ ] NSE scripts (vuln, auth, exploit)
