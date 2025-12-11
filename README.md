@@ -51,9 +51,9 @@ A complete, structured learning roadmap to track my journey from networking fund
 - [x] Port scans (SYN, Connect, UDP)
 - [x] Service/version detection (-sV)
 - [x] OS fingerprinting (-O)
-- [ ] Firewall evasion (-Pn, --data-length)
-- [ ] Timing options (T1–T5)
-- [ ] NSE scripts (vuln, auth, exploit)
+- [x] Firewall evasion (-Pn, --data-length)
+- [x] Timing options (T1–T5)
+- [x] NSE scripts (vuln, auth, exploit)
 
 ### 🔹 Wireshark
 - [ ] Capture filters  
