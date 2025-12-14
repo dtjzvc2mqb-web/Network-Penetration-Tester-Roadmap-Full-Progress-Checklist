@@ -56,12 +56,12 @@ A complete, structured learning roadmap to track my journey from networking fund
 - [x] NSE scripts (vuln, auth, exploit)
 
 ### 🔹 Wireshark
-- [ ] Capture filters  
-- [ ] Display filters  
-- [ ] Follow TCP streams  
-- [ ] Identify scans/attacks  
-- [ ] Detect ARP poisoning  
-- [ ] Analyze traffic  
+- [x] Capture filters  
+- [x] Display filters  
+- [x] Follow TCP streams  
+- [x] Identify scans/attacks  
+- [x] Detect ARP poisoning  
+- [x] Analyze traffic  
 
 ### 🔹 Packet Crafting Tools (Optional but powerful)
 - [ ] hping3  
